@@ -24,18 +24,20 @@ Three pages — Overview, Deep Dive, and Revenue.
 
 **Page 1 — Overview**
 High-level numbers: churn rate, total churned, retained. Broken down by internet service, contract type, gender, and tenure band.
+<img width="1341" height="792" alt="image" src="https://github.com/user-attachments/assets/58aee2f1-a864-4c58-b351-a0276c8295e5" />
 
-![Overview](assets/overview.png)
+---
 
 **Page 2 — Deep Dive**
 3K high-risk customers flagged. Churn reasons ranked — "Attitude of support person" and "Competitor offered higher speed" are the top two. Risk segmentation by Medium/High/Low.
+<img width="1340" height="791" alt="image" src="https://github.com/user-attachments/assets/be106569-12d6-4247-b8fa-1ff2a4328502" />
 
-![Deep Dive](assets/deep_dive.png)
+---
 
 **Page 3 — Revenue**
 Where the money is going. $139K monthly revenue at risk, avg CLTV of churned customers at $4.15K. Scatter plot of high-value customers, broken down by contract + internet service.
+<img width="1338" height="789" alt="image" src="https://github.com/user-attachments/assets/4d95f855-ecd4-4545-95b0-a6438f3c1cc0" />
 
-![Revenue](assets/revenue.png)
 
 ---
 
