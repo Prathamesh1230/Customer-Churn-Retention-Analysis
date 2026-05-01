@@ -59,9 +59,3 @@ Queried the dataset using CTEs, `RANK()` partitioned by contract type, and `CASE
 | `Telco_customer_churn.csv` | Raw dataset |
 
 ---
-
-## How to use
-
-1. Run `customer_churn.sql` in MySQL to create the tables and views
-2. Open `Customer_Churn.pbix` in Power BI Desktop
-3. Update the data source connection to your local MySQL if needed
