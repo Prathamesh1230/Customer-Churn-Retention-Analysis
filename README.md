@@ -57,5 +57,3 @@ Queried the dataset using CTEs, `RANK()` partitioned by contract type, and `CASE
 | `customer_churn.sql` | All SQL queries used for analysis |
 | `Customer_Churn.pbix` | Power BI report file (3 pages) |
 | `Telco_customer_churn.csv` | Raw dataset |
-
----
